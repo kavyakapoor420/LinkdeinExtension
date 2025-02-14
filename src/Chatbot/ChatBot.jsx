@@ -54,7 +54,7 @@ const Chatbot = () => {
           onClick={toggleChat}
           className="bg-purple-700 text-white p-3 rounded-full shadow-lg hover:bg-purple-600 transition"
         >
-          <Bot size={24} />
+          <Bot size={40} />
         </button>
       )}
 
@@ -63,7 +63,7 @@ const Chatbot = () => {
         <div className="w-80 bg-gradient-to-br from-purple-900 to-purple-700 text-white rounded-xl shadow-2xl">
           {/* Header */}
           <div className="flex justify-between items-center p-4 border-b border-purple-600">
-            <h2 className="text-lg font-semibold">Safire Bot</h2>
+            <h2 className="text-lg font-semibold">Seftipin Bot</h2>
             <button onClick={toggleChat} className="text-gray-300 hover:text-white">
               <X size={20} />
             </button>

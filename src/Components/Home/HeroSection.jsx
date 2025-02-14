@@ -25,6 +25,7 @@ const HeroSection = () => {
 
       {/* Spline 3D Model */}
       <div className="absolute top-0 left-0 right-0 h-full flex justify-center items-center z-0">
+        {/* <Spline scene="https://prod.spline.design/Ql1hHdBoyb7KLnb6/scene.splinecode" /> */}
         <Spline scene="https://prod.spline.design/Ql1hHdBoyb7KLnb6/scene.splinecode" />
       </div>
     </div>
@@ -32,3 +33,5 @@ const HeroSection = () => {
 };
 
 export default HeroSection;
+
+
