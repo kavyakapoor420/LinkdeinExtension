@@ -60,7 +60,7 @@ const Footer = () => {
   
         
         <div className="mt-8 text-gray-400 max-w-6xl flex m-auto text-sm">
-          Copyright @SafeDM 2025
+          Copyright @Safetipin 2025
         </div>
       </footer>
     );
